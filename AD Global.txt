@@ -8,6 +8,7 @@ AdGuard
 https://easylist.to/easylist/easylist.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 
 uBlock Origin
 https://filters.adtidy.org/extension/ublock/filters/11.txt
