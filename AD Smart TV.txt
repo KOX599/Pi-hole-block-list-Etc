@@ -1,12 +1,13 @@
 Smart TV
 
+Perflyst
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+
 https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)
 https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt
 https://gist.githubusercontent.com/florian-frost/265a1b3fbadddabe10d4138dc717a57d/raw/966a41ce2c024c45012d96d77128409cede0cfb9/Smart-TV-Blocklist-for-Pi-hole.txt
