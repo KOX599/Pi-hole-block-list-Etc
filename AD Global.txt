@@ -52,3 +52,4 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ublock_hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile_regex.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/urlhaus_filter_hosts.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easylist_host.txt
