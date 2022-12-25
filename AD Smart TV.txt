@@ -8,8 +8,17 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.tx
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
 
+wassname
 https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)
-https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/e0f084b396bb8ffcb390c8e7272ae96a6c292d10/SmartTV2.txt
+
+hkamran80
+https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/3c168e68f067f00df825c73042255e6d3fd541c4/SmartTV2.txt
+
+florian-frost
 https://gist.githubusercontent.com/florian-frost/265a1b3fbadddabe10d4138dc717a57d/raw/966a41ce2c024c45012d96d77128409cede0cfb9/Smart-TV-Blocklist-for-Pi-hole.txt
+
+SalemHarrache
 https://gist.githubusercontent.com/SalemHarrache/6c1fa0b14a055b6bfbe4664bfb7c88fc/raw/0eec82be2c84b9a613fb11ee6de7310fe08e6df1/smart-tv-blocklist.txt
+
+jmathai
 https://gist.githubusercontent.com/jmathai/cf7a2b5cdd925b6b767ef728159dddf4/raw/be72b386d21e60721184f21216656e3f2365103f/SmartTV.txt
