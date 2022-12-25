@@ -22,3 +22,6 @@ https://gist.githubusercontent.com/SalemHarrache/6c1fa0b14a055b6bfbe4664bfb7c88f
 
 jmathai
 https://gist.githubusercontent.com/jmathai/cf7a2b5cdd925b6b767ef728159dddf4/raw/be72b386d21e60721184f21216656e3f2365103f/SmartTV.txt
+
+MajkiIT/polish-ads-filter
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/SmartTV_ads.txt
