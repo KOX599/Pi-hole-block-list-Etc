@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock-suplement-adguard.txt
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock-suplement.txt
-https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
 
 PL uBlock Origin
