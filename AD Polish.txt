@@ -1,5 +1,4 @@
 Ads List Polish
-AdGuard, uBlock, uBlock Origin, Opera, AdBlock, 
 
 AdGuard Home PL
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt
