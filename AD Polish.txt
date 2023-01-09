@@ -30,3 +30,6 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://alleblock.pl/alleblock/alleblock.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile_regex.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+
+firebog Suspicious 
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
