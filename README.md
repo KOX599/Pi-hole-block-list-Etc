@@ -1,1 +1,1 @@
-Recommend more 512mb ram
+RECOMMEND 1GB RAM AND MORE TO WORK
