@@ -33,6 +33,3 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hole_cert_pl.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/kad_host.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/urlhaus_filter_hosts.txt
-
-firebog Suspicious 
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
