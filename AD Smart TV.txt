@@ -25,3 +25,6 @@ https://gist.githubusercontent.com/jmathai/cf7a2b5cdd925b6b767ef728159dddf4/raw/
 
 MajkiIT/polish-ads-filter
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/SmartTV_ads.txt
+
+filterlists
+https://www.smartadblock.co.uk/filters/sabfilter.txt
