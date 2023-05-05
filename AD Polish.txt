@@ -21,9 +21,6 @@ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-ad
 PL Opera
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 
-PL AdBlock 
-https://easylist-downloads.adblockplus.org/easylistpolish+easylist.txt
-
 majkiit.github.io/polish-ads-filter
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
