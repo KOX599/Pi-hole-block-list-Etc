@@ -1,6 +1,5 @@
 ADS
 
-
 AdGuard Home
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
