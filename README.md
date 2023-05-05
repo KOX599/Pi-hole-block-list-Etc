@@ -1,7 +1,7 @@
 RECOMMEND
 
-CPU > 4C 4T
+CPU > 4 Core 4 Thread or More
 
-RAM > 1gb or (more = better)
+RAM > 1gb or More
 
-32GB STORAGE or (more = better)
+STORAGE > 32GB or More
