@@ -4,4 +4,8 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 uBlock Origin
 https://filters.adtidy.org/extension/ublock/filters/11.txt
 
+filterlists
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
+
+
 
