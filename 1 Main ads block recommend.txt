@@ -9,9 +9,6 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 EasyList
 https://easylist.to/easylist/easylist.txt
 
-Mobile ads filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-
 DNS filter 
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 
@@ -19,9 +16,6 @@ uBlock Origin
 
 AdGuard Base
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
-
-AdGuard Mobile Ads 
-https://filters.adtidy.org/extension/ublock/filters/11.txt
 
 Dan Pollock’s hosts file
 https://someonewhocares.org/hosts/hosts
