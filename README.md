@@ -4,9 +4,9 @@ CPU > 4 Core 4 Thread or More
 
 RAM > 1gb or More
 
-STORAGE > 32GB or SSD
+STORAGE > 32GB or More/SSD
 
-And use both DNS
+And use this DNS 
 
 tls://dns.adguard-dns.com
 
