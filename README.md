@@ -8,6 +8,8 @@ STORAGE > 32GB or More/SSD
 
 And use this DNS 
 
+Mobile & Console ads
+
 tls://dns.adguard-dns.com
 
 IPv4
