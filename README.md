@@ -10,7 +10,17 @@ And use this DNS
 
 Mobile & Console ads
 
-tls://dns.adguard-dns.com
+DNS-over-HTTPS	
+
+https://dns.adguard-dns.com/dns-query	
+
+DNS-over-TLS	
+
+tls://dns.adguard-dns.com	
+
+DNS-over-QUIC	
+
+quic://dns.adguard-dns.com	
 
 IPv4
 
