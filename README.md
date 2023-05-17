@@ -5,20 +5,20 @@
 
 ### Use This DNS
 
-#### DNS-over-HTTPS
+* #### DNS-over-HTTPS
 ```
 https://dns.adguard-dns.com/dns-query
 ```
-#### DNS-over-TLS
+* #### DNS-over-TLS
 ```
 tls://dns.adguard-dns.com
 ```
-#### DNS-over-QUIC
+* #### DNS-over-QUIC
 ```
 quic://dns.adguard-dns.com
 ```
 
-#### IPv4
+* #### IPv4
 ```
 94.140.14.14
 ```
@@ -26,7 +26,7 @@ quic://dns.adguard-dns.com
 94.140.15.15
 ```
 
-#### IPv6
+* #### IPv6
 ```
 2a10:50c0::ad1:ff
 ```
