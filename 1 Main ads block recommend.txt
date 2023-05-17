@@ -68,5 +68,8 @@ https://filters.adtidy.org/extension/ublock/filters/11.txt
 filterlists
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
 
+github.com/MajkiIT/polish
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
+
 
 
