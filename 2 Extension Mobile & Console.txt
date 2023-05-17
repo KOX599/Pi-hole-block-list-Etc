@@ -11,4 +11,5 @@ AdGuard
 DNS filter 
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 
-
+github.com/MajkiIT/polish
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
