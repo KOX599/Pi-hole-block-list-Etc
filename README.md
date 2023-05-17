@@ -1,9 +1,9 @@
-# RECOMMEND 
+## RECOMMEND 
 * CPU > 4 Core 4 Thread or More
 * RAM > 1gb or More
 * STORAGE > 32GB or More/SSD
 
-## Use this DNS!
+### Use this DNS!
 
 * DNS-over-HTTPS
 ```
