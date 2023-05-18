@@ -2,6 +2,11 @@
 * CPU > 4 Core 4 Thread or More
 * RAM > 1gb or More
 * STORAGE > 32GB or More/SSD
+* 64bit OS
+
+### INFO
+* Recommend block list, Mobile & Console, Smart TV use 250-300MB Ram
+* More ads block use 300-400MB Ram
 
 ### Use This DNS
 
