@@ -2,7 +2,9 @@
 * CPU > 4 Core 4 Thread or More
 * RAM > 1gb or More
 * STORAGE > 32GB or More/SSD
+* Filter update 12h-24h
 * 64bit OS
+
 
 ### INFO
 * Recommend block list, Mobile & Console, Smart TV use 250-300MB Ram
