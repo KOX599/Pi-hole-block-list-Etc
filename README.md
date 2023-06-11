@@ -5,11 +5,6 @@
 * Filter update 12h-24h
 * 64bit OS
 
-
-### INFO
-* Recommend block list, Mobile & Console, Smart TV use 250-300MB Ram
-* More ads block use 300-400MB Ram
-
 ### Use This DNS
 
 * #### DNS-over-HTTPS
