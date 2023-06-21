@@ -2,7 +2,10 @@ AdGuard
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 
 uBlock Origin
+AdGuard – Mobile Ads
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+AdGuard – Mobile App Banners
 https://filters.adtidy.org/extension/ublock/filters/20.txt
 
 filterlists
