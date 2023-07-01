@@ -1,5 +1,5 @@
-Spotify PC 
-||gew4-spclient.spotify.com^$important
+Spotify 
+
 
 Smart TV LG
 ||www.googleadservices.com^$important
