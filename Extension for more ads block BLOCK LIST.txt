@@ -1,3 +1,4 @@
+127.0.0.1 s.shopify.com
 s.shopify.com
 
 Smart TV LG
