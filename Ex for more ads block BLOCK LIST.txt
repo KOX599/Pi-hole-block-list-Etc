@@ -5,3 +5,12 @@ Smart TV LG
 ||discovery.meethue.com^$important
 ||pl.lgtvsdp.com^$important
 ||www.ueiwsp.com^$important
+||uiboot.netflix.com^$important
+||api-global.netflix.com^$important
+||nrdp.prod.cloud.netflix.com^$important
+||nrdp51-appboot.netflix.com^$important
+||secure.netflix.com^$important
+||nrdp-cell4.prod.ftl.netflix.com^$important
+||cdn-0.nflximg.com^$important
+||lg-tv-2020.prod.partner.netflix.net^$important
+||push.prod.netflix.com^$important
