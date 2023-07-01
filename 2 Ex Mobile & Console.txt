@@ -1,0 +1,19 @@
+AdGuard
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+
+uBlock Origin
+AdGuard – Mobile Ads
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+AdGuard – Mobile App Banners
+https://filters.adtidy.org/extension/ublock/filters/20.txt
+
+filterlists
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
+
+AdGuard
+DNS filter 
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
+
+github.com/MajkiIT/polish
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
