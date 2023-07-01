@@ -1,8 +1,0 @@
-127.0.0.1 s.shopify.com
-s.shopify.com
-
-Smart TV LG
-||www.googleadservices.com^$important
-||discovery.meethue.com^$important
-||pl.lgtvsdp.com^$important
-||www.ueiwsp.com^$important
