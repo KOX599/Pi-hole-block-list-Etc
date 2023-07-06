@@ -1,7 +1,7 @@
 Spotify 
 
 
-Smart TV LG
+Smart TV LG ( MORE TEST )
 ||www.googleadservices.com^$important
 ||discovery.meethue.com^$important
 ||pl.lgtvsdp.com^$important
