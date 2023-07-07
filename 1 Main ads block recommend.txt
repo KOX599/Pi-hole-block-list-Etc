@@ -90,3 +90,15 @@ https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone
 github.com/MajkiIT/polish
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
 
+BLOCK LOT OF ADS ETC
+github.com/d3ward/toolz
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+
+
+
+
+
+
+
+
