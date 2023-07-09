@@ -4,6 +4,8 @@
 * STORAGE > 32GB or More/SSD
 * Filter update 12h-24h
 * 64bit OS
+### Info
+* ALL filters block 99% ADS
 
 ### Use This DNS
 
