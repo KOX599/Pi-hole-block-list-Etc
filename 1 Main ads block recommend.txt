@@ -23,6 +23,16 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 EasyList
 https://easylist.to/easylist/easylist.txt
 
+AdGuard Android
+Podstawowy filtr AdGuard
+https://filters.adtidy.org/android/filters/2_optimized.txt
+
+Android
+https://filters.adtidy.org/android/filters/11_optimized.txt
+
+Easylist
+https://secure.fanboy.co.nz/easylist.txt
+
 uBlock Origin
 AG Base
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
