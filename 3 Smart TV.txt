@@ -1,10 +1,15 @@
 
 Perflyst
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
+
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
 
 wassname
