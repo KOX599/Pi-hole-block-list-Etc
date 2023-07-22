@@ -1,0 +1,108 @@
+( General ) Lists that block trackers and ads on most devices
+AdGuard Home adguardteam.github.io
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+
+Other Blocklists
+WindowsSpyBlocker - Hosts spy rules
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+
+AdGuard
+Base filtr AdGuard
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+
+EasyList
+https://easylist.to/easylist/easylist.txt
+
+
+AdGuard Android
+Base filtr AdGuard
+https://filters.adtidy.org/android/filters/2_optimized.txt
+
+Android
+https://filters.adtidy.org/android/filters/11_optimized.txt
+
+Easylist
+https://secure.fanboy.co.nz/easylist.txt
+
+
+
+uBlock Origin
+AG Base
+https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+
+uBlock filters – Ads
+https://ublockorigin.pages.dev/filters/filters.min.txt
+
+AdGuard – Other Annoyances
+https://filters.adtidy.org/extension/ublock/filters/21.txt
+
+Dan Pollock’s hosts file
+https://someonewhocares.org/hosts/hosts
+
+Peter Lowe’s Ad and tracking server list
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+
+
+Opera
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+
+https://github.com/MajkiIT
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/AdAway-hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/AdguardDNS-hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/KADhosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/Prigent-Ads-hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_crypto_host.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host_privacy.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easylist_host.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile_regex.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/kad_host.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/spotify_hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ublock_hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/urlhaus_filter_hosts.txt
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adservers.txt
+
+
+
+
+
+
