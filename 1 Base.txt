@@ -30,7 +30,6 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
 
 
 
-
 AdGuard
 Base filtr AdGuard
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
