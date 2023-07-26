@@ -28,26 +28,12 @@ Other Blocklists
 WindowsSpyBlocker - Hosts spy rules
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
 
-
-
 AdGuard
 Base filtr AdGuard
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 
 EasyList
 https://easylist.to/easylist/easylist.txt
-
-
-AdGuard Android
-Base filtr AdGuard
-https://filters.adtidy.org/android/filters/2_optimized.txt
-
-Android
-https://filters.adtidy.org/android/filters/11_optimized.txt
-
-Easylist
-https://secure.fanboy.co.nz/easylist.txt
-
 
 uBlock Origin
 AG Base
@@ -65,10 +51,8 @@ https://someonewhocares.org/hosts/hosts
 Peter Lowe’s Ad and tracking server list
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
 
-
 Opera
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-
 
 https://github.com/MajkiIT
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/AdAway-hosts.txt
