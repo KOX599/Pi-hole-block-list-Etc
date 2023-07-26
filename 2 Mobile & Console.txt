@@ -1,6 +1,16 @@
 AdGuard
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 
+AdGuard Android
+Base filtr AdGuard
+https://filters.adtidy.org/android/filters/2_optimized.txt
+
+Android
+https://filters.adtidy.org/android/filters/11_optimized.txt
+
+Easylist
+https://secure.fanboy.co.nz/easylist.txt
+
 uBlock Origin
 AdGuard – Mobile Ads
 https://filters.adtidy.org/extension/ublock/filters/11.txt
