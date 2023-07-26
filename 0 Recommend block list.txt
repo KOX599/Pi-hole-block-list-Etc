@@ -1,3 +1,8 @@
+AdGuard app android
+https://userscripts.adtidy.org/release/disable-amp/1.0/disable-amp.meta.js
+
+https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.meta.js
+
 ( General ) Lists that block trackers and ads on most devices
 AdGuard Home adguardteam.github.io
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
