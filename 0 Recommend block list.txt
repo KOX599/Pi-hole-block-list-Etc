@@ -33,7 +33,11 @@ Other Blocklists
 WindowsSpyBlocker - Hosts spy rules
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
 
+BLOCK LOT OF ADS ETC
+github.com/d3ward/toolz
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
 
 
 
