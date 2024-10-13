@@ -1,1 +1,4 @@
 s.shopify.com
+googleads.g.doubleclick.net
+accounts.google.com
+play.google.com
