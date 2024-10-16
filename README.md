@@ -16,6 +16,7 @@ https://dns11.quad9.net/dns-query
 * #### DNS-over-TLS
 ```
 tls://dns11.quad9.net
+```
 
 * #### IPv4
 ```
