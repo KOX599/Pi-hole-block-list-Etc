@@ -9,31 +9,26 @@
 
 ### Use This DNS
 
-* #### DNS-over-HTTPS
+* #### *DNS-over-HTTPS
 ```
-https://dns.adguard-dns.com/dns-query
+https://dns11.quad9.net/dns-query
 ```
 * #### DNS-over-TLS
 ```
-tls://dns.adguard-dns.com
-```
-* #### DNS-over-QUIC
-```
-quic://dns.adguard-dns.com
-```
+tls://dns11.quad9.net
 
 * #### IPv4
 ```
-94.140.14.14
+9.9.9.11
 ```
 ```
-94.140.15.15
+149.112.112.11
 ```
 
 * #### IPv6
 ```
-2a10:50c0::ad1:ff
+2620:fe::11
 ```
 ```
-2a10:50c0::ad2:ff
+2620:fe::fe:11
 ```
