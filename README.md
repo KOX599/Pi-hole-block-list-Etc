@@ -9,7 +9,7 @@
 
 ### Use This DNS
 
-* #### *DNS-over-HTTPS
+* #### **DNS-over-HTTPS
 ```
 https://dns11.quad9.net/dns-query
 ```
