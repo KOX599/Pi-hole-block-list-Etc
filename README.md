@@ -3,7 +3,7 @@
 * RAM > 1gb or More
 * STORAGE > 32GB or More/SSD
 * Filter update 12h-24h
-* 64bit OS
+* 32bit OS / Works Better on 64bit OS
 ### Info
 * ALL filters block 99% ADS
 
