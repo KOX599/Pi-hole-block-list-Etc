@@ -7,9 +7,35 @@
 ### Info
 * ALL filters block 99% ADS
 
-### Use This DNS
+* #### *Best Mullvad-VPN ( To Device )
+```
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
+```
+* #### DoH port
+```
+443
+```
+* #### DoT port
+```
+853
+```
+* #### IPv4
+```
+194.242.2.3
+```
+```
+194.242.2.4
+```
+* #### IPv6
+```
+2a07:e340::3
+```
+```
+2a07:e340::4
+```
 
-* #### **DNS-over-HTTPS
+* Pi-hole etc.
+* #### DNS-over-HTTPS
 ```
 https://dns11.quad9.net/dns-query
 ```
