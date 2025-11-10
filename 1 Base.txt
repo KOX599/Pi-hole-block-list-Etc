@@ -96,11 +96,14 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adservers.txt
 
 
-BLOCK LOT OF ADS ETC
-github.com/d3ward/toolz
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+BLOCK LOT OF ADS ETC edit by me
+github.com/d3ward/toolz 
+https://github.com/KOX599/toolz1/raw/refs/heads/master/src/d3host.txt
 
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+https://github.com/KOX599/toolz1/raw/refs/heads/master/src/d3hostv2.txt
+
+https://github.com/KOX599/toolz1/raw/refs/heads/master/src/d3host.adblock
+
 
 
 
